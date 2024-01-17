@@ -101,7 +101,7 @@ Here's some useful middleware you can use in your Express projects.
 
 ---
 
-### [Express Validator](https://www.npmjs.com/package/express-async-handler)
+### [Express Validator](https://www.npmjs.com/package/express-validator)
 
 - Allows for sanitation and validation data.
 
