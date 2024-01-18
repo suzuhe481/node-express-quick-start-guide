@@ -91,6 +91,12 @@ npm run serverstart
 
 - Object modeling tool for MongoDB.
 
+---
+
+### [dotenv](https://www.npmjs.com/package/dotenv)
+
+- Handles environment variables and secrets.
+
 ## [4] Middleware
 
 Here's some useful middleware you can use in your Express projects.
@@ -122,3 +128,15 @@ Here's some useful middleware you can use in your Express projects.
 ### [Express Rate Limit](https://www.npmjs.com/package/express-rate-limit)
 
 - Limits repeated requests to public APIs and/or endpoints.
+
+---
+
+### [PassportJS](https://www.npmjs.com/package/passport)
+
+- Handles authentication and sessions
+
+---
+
+### [bcryptjs](https://www.npmjs.com/package/bcrypt)
+
+- Encryption for hashing passwords.
